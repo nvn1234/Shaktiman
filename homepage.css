@@ -9,6 +9,7 @@ body {
             text-align: center;
             padding: 0px;
         }
+
         .container {
           position: fixed;
           background: black;
@@ -19,13 +20,13 @@ body {
           border-bottom: 5px;
           border-color: green;
           border-style: solid;
-      
-          
-        }
+           }
+
         .id{
           padding: 0px;
           margin: 0px;
         }
+
         .site {
           padding-top: 170px;
           background: rgb(54, 69, 79);
@@ -34,15 +35,17 @@ body {
        
         h1 {
             color: #fff;
-            font-size: 30px; /* larger font size */
+            font-size: 30px; 
             padding: 0px;
             margin-top: 0px;
         }
+
+
         p {
-            font-size: 25px; /* larger font size */
+            font-size: 25px;
             color: #ccc;
-          
         }
+
 .left-button {
  background-color: rgb(186, 240, 209);
     color: rgb(18, 53, 83);
@@ -63,6 +66,7 @@ body {
     opacity: 0.7;
     text-anchor: end;
  }
+
 .left-button:active{
     opacity: 0.4;
  }
